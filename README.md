@@ -3,7 +3,7 @@
 **Student:** Warona Maphala  
 **Institution:** Eduvos Midrand  
 **Year:** 2026  
-**Supervisor:** [Your Supervisor's Name]
+**Supervisor:** [Dr. Shumba. S.]
 
 ---
 
@@ -87,7 +87,7 @@ traffic_congestion_prediction/
 
 ---
 
-## How to Run This Project (Step by Step for Beginners)
+## How to Run This Project
 
 ### Step 1 — Clone the Repository
 
