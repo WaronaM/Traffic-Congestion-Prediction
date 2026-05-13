@@ -1,0 +1,6 @@
+Model,Accuracy (%),Precision (Macro),Recall (Macro),F1-Score (Macro),AUC-ROC,Notes
+Random Forest,TBD,TBD,TBD,TBD,TBD,Best performer in Zafar & Ul Haq (2020) at 92%
+Decision Tree,TBD,TBD,TBD,TBD,TBD,
+Logistic Regression,TBD,TBD,TBD,TBD,TBD,
+KNN,TBD,TBD,TBD,TBD,TBD,
+SVM,TBD,TBD,TBD,TBD,TBD,Requires probability=True for calibration
